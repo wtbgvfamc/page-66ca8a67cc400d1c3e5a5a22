@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "92d686d78e2f2a9f8dbe803b",
+  "owner": "wtbgvfamc",
+  "repo": "page-66ca8a67cc400d1c3e5a5a22",
+  "title": "快柠檬",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "66ca8a67cc400d1c3e5a5a22",
+      "a": "快柠檬",
+      "b": "",
+      "entity": "快柠檬",
+      "brand": "快柠檬",
+      "separator": "",
+      "path": "index.html",
+      "hash": "c019eab8c714f40ecbc058dba1fec3525c19b5f623fed9c9a21e8f5a304a58c3",
+      "content": {
+        "keyword1": "快柠檬",
+        "keyword2": "",
+        "primary_entity": "快柠檬",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "快柠檬VPN提供专业的高速VPN和机场服务，基础版、旗舰版、团队版套餐可选，享受极速流量、流媒体解锁和多设备在线支持。简单配置流程，立即畅享稳定加速网络。",
+          "AI_DESCRIPTION": "快柠檬VPN提供专业的高速VPN和机场服务，基础版、旗舰版、团队版套餐可选，享受极速流量、流媒体解锁和多设备在线支持。简单配置流程，立即畅享稳定加速网络。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>body{font-family:system-ui,-apple-system,sans-serif;background:#f4f6f8;margin:0;padding:0;color:#333}header{background:#0A2540;color:white;padding:1rem 0}nav{max-width:1200px;margin:0 auto;display:flex;justify-content:space-between;align-items:center}nav a{color:white;text-decoration:none;margin:0 1rem}section{max-width:1200px;margin:0 auto;padding:3rem 2rem}.hero{background:linear-gradient(to right,#0A2540,#00BFFF);color:white;padding:5rem 2rem;text-align:center}.hero h1{font-size:3rem;margin-bottom:1rem}.plans-container{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:2rem}.plan{background:white;border-radius:12px;padding:2rem;box-shadow:0 4px 6px rgba(0,0,0,0.1);border:3px solid #00BFFF}.plan.featured{border-color:#00D4FF;transform:scale(1.05)}.plan h3{color:#0A2540;margin-bottom:1rem}.plan .price{font-size:1.5rem;color:#00D4FF;font-weight:bold}.plan ul{list-style:none;padding:0;margin:1rem 0}.plan li{margin:0.5rem 0;padding-left:1rem;position:relative}.plan li:before{content:\"✓\";color:#00D4FF;position:absolute;left:0}.config-process{display:flex;flex-wrap:wrap;gap:2rem;background:#f8f9fa;padding:2rem;border-radius:12px}.step{flex:1;min-width:250px;background:white;padding:1.5rem;border-radius:8px;box-shadow:0 2px 4px rgba(0,0,0,0.05)}.step:nth-child(odd){background:#0A2540;color:white}.step:nth-child(even){background:#E6F7FF;color:#0A2540}.step h4{margin-bottom:0.5rem}.faq{background:white;border-radius:12px;overflow:hidden}.faq details{margin:0;border-bottom:1px solid #eee}.faq details:last-child{border-bottom:none}.faq summary{padding:1.2rem 1.5rem;font-weight:600;cursor:pointer;background:#f8f9fa}.faq p{padding:1.5rem;margin:0;background:white}footer{background:#0A2540;color:white;text-align:center;padding:2rem}footer a{color:#00D4FF}</style><header><nav><a href=\"#\">首页</a><a href=\"#\">产品</a><a href=\"#\">套餐</a><a href=\"#\">配置</a><a href=\"#\">下载</a><a href=\"#\">FAQ</a></nav></header><main><section class=\"hero\"><h1>快柠檬</h1><p>高速VPN机场 - 稳定加速，畅享无忧网络</p></section><section class=\"intro\"><h2>品牌简介</h2><p>快柠檬是一款专业的高速VPN与机场订阅服务，提供多种套餐供您选择。无论个人使用还是企业团队，都能获得优质的网络加速体验。</p><h2>使用场景</h2><p>适用于远程办公、在线游戏、视频流媒体观看以及需要全球节点访问的用户。</p></section><section><h2>选择您的套餐</h2><div class=\"plans-container\">{{PLANS_HTML}}</div></section><section class=\"config-process\"><h2>配置流程</h2><div class=\"step\"><h4>步骤一</h4><p>选择适合您的套餐并完成支付</p></div><div class=\"step\"><h4>步骤二</h4><p>访问官网下载客户端</p></div><div class=\"step\"><h4>步骤三</h4><p>安装并导入您的订阅配置</p></div><div class=\"step\"><h4>步骤四</h4><p>选择可用节点并连接</p></div></section><section class=\"faq\"><h2>常见问题</h2><details><summary>快柠檬VPN是什么？</summary><p>快柠檬VPN是一款提供高速网络加速的机场服务，支持流媒体解锁和多设备同时在线。</p></details><details><summary>如何选择套餐？</summary><p>根据您的流量需求和设备数量选择基础版、旗舰版或团队版。</p></details><details><summary>支持哪些设备？</summary><p>基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。</p></details><details><summary>如何配置IPLC专线？</summary><p>在旗舰版和团队版套餐中，您可以获得专线优化，支持企业定制路由。</p></details><details><summary>售后服务如何？</summary><p>旗舰版及以上套餐提供7x24优先工单支持，团队版有专属客户经理。</p></details></section><section><h2>成功案例</h2>{{CLIENTS_HTML}}</section></main><footer><p>© 快柠檬 2024. 所有权利保留。</p></footer>",
+          "hash": "2536894dc4fc10798562253ef240f3ddae6e4ec6423878238d7410a0098eaead",
+          "seo": {
+            "title": "快柠檬VPN 机场 - 高速网络加速，客户端下载与订阅服务",
+            "keywords": "快柠檬VPN, 快柠檬机场, VPN加速, 机场订阅, 客户端下载, 网络加速器, 流媒体解锁",
+            "description": "快柠檬VPN提供专业的高速VPN和机场服务，基础版、旗舰版、团队版套餐可选，享受极速流量、流媒体解锁和多设备在线支持。简单配置流程，立即畅享稳定加速网络。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "34yjy6.cn",
+    "host": "home.34yjy6.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "34yjy6.cn",
+      "url": "https://34yjy6.cn/",
+      "label": "白嫖(CCCAT)",
+      "apex": "34yjy6.cn",
+      "kind": null,
+      "identity": "yxqcax/page-a2e7d6732c288ffbbc1cc852"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "a2dc7cc7ca847abfbc4a8c291c1c44e6ad09a379f68b9a05bea5e5fcb1d42402",
+    "sitemap.xml": "fd03821bb0aada81dfeac9b83938aa068a21594e4914a3aabd1780f315888ada",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "062070da782f0de3105ed8a9883b98da38480c842df921f2c0658a2579cef7f9",
+    "robots.txt": "24491eaa5968e3ba222244738355fefe9b7dd9aef44826c6af802b76e5de11da",
+    "c4f3df2bf301cf71630d9b207bd4ce8e.txt": "e1a7ba42cbc5e412c939371b4236cad567f78695109fa138c78de2224174b2ee"
+  },
+  "revision": "e46b643fd76256ab47ace247a8a83090bbfeff894ae54bbb582fb3384f13658c"
+}
